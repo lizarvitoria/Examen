@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1st Evaluation Test(November)</string>
+    <string name="actividad1">ACTIVITY 1</string>
+    <string name="actividad2">ACTIVITY 2</string>
+    <string name="actividad3">ACTIVITY 3</string>
+    <string name="actividad4">ACTIVITY 4</string>
+    <string name="salir">EXIT</string>
+    <string name="toast">noImplementadoEn</string>
+</resources>
